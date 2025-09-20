@@ -2,7 +2,7 @@
 
 ## El trabajo hecho con C# del Grupo1
 
-![Captura de la app (Consola)](docs/captura_consola.png)
+![Captura de la app (Consola)](docs/captura_Consola.png)
 
 ![Captura de la app (WinForms)](docs/captura_winforms.png)
 
