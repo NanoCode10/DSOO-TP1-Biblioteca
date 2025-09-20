@@ -1,6 +1,8 @@
-# TP1- Obligatorio - Biblioteca - DDSOO-Grupo1A
+# TP1- Obligatorio - Biblioteca - DDSOO-Grupo1
 
-## La rama de Mariano J. Arenas
+## El trabajo hecho con C# del Grupo1
+
+![Captura de la app (Consola)](docs/captura_consola.png)
 
 ![Captura de la app (WinForms)](docs/captura_winforms.png)
 
